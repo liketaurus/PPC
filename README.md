@@ -18,4 +18,4 @@
 [иерархии классов]: https://github.com/liketaurus/PPC/tree/master/src/Employees
 [гистограмм]: https://github.com/liketaurus/PPC/blob/master/src/Misc/BarChart.java
 [класса]: https://github.com/liketaurus/PPC/blob/master/src/Misc/Tree.java
-[здесь] :https://github.com/vivin/GenericTree
+[здесь]: https://github.com/vivin/GenericTree
