@@ -7,6 +7,7 @@
 * пример [иерархии классов] для задачи описания должностей в некоторой компании
 * пример класса для построения [гистограмм] с использованием зазубренного массива
 * пример [класса] для задачи о генеалогическом дереве. Более общая (и более правильная) реализация дерева - [здесь]. Вопросы по коду тоже [есть]
+* [набросок класса] для задачи об ориентированных графах
 
 ---
 См. также мой блог [ProductivityBlog.com.ua]
@@ -20,3 +21,4 @@
 [класса]: https://github.com/liketaurus/PPC/blob/master/src/Misc/Tree.java
 [здесь]: https://github.com/vivin/GenericTree
 [есть]: https://github.com/liketaurus/PPC/blob/master/src/Misc/questions_Tree.md
+[набросок класса]: https://github.com/liketaurus/PPC/blob/master/src/Misc/Graph.java
