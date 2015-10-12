@@ -52,7 +52,7 @@ public class Graph {
             }
 
         }
-        return cols >= 3;//цикл включает хотя бы 3 вершины
+        return cols >2;//цикл включает хотя бы 3 вершины
     }
 
     public static void main(String args[]) {
@@ -63,7 +63,7 @@ public class Graph {
             {0, 0, 0, 1, 0},
             {0, 0, 0, 0, 1}};
 
-        /* int[][] g = {
+         /* int[][] g = {
          {1, 1, 0, 1, 1},
          {0, 1, 1, 1, 1},
          {1, 0, 1, 1, 1},
