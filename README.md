@@ -6,6 +6,7 @@
 * тестовый проект для иллюстрации принципа работы очереди [queueDemo] и [список вопросов] к этому коду.
 * пример [иерархии классов] для задачи описания должностей в некоторой компании
 * пример класса для построения [гистограмм] (зазубренный массив)
+* пример [класса] для задачи о генеалогическом дереве
 
 ---
 См. также мой блог [ProductivityBlog.com.ua]
@@ -16,3 +17,4 @@
 [ProductivityBlog.com.ua]: http://ProductivityBlog.com.ua
 [иерархии классов]: https://github.com/liketaurus/PPC/tree/master/src/Employees
 [гистограмм]: https://github.com/liketaurus/PPC/blob/master/src/Misc/BarChart.java
+[класса]: https://github.com/liketaurus/PPC/blob/master/src/Misc/Tree.java
