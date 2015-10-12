@@ -20,7 +20,7 @@ public class BarChart {
             for (int j = 0; j < board[i].length; j++) {
                 s = s + board[i][j];
             }
-            s = s + "\n";
+            s = s + " "+board[i].length+"\n";
         }
         return s;
     }
