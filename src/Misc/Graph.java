@@ -17,11 +17,6 @@ public class Graph {
         return size;
     }
 
-    public Graph(int n) {
-        this.matrix = new int[n][n];
-        size = n;
-    }
-
     public Graph(int[][] matrix) {
         this.matrix = matrix;
         size = matrix.length;
@@ -75,23 +70,20 @@ public class Graph {
          {0, 0, 0, 1, 0},
          {0, 0, 0, 0, 1}};
          */
-        
         Graph myGraph = new Graph(g);
-        try{
-        if (myGraph.IsSv()) {
-            System.out.println("Граф связный");
-        } else {
-            System.out.println("Граф несвязный");
-        }
-        if (myGraph.hasLoops()) {
-            System.out.println("Граф содержит циклы");
-        } else {
-            System.out.println("Граф не содержит циклов");
-        }
-        System.out.println("Вершина 3 имеет степень" + myGraph.pointLevel(3));
-        }
-        catch (NotImplementedException e)
-        {
+        try {
+            if (myGraph.IsSv()) {
+                System.out.println("Граф связный");
+            } else {
+                System.out.println("Граф несвязный");
+            }
+            if (myGraph.hasLoops()) {
+                System.out.println("Граф содержит циклы");
+            } else {
+                System.out.println("Граф не содержит циклов");
+            }
+            System.out.println("Вершина 3 имеет степень" + myGraph.pointLevel(3));
+        } catch (NotImplementedException e) {
             System.err.println("ВНИМАНИЕ! Некоторые методы класса еще не реализованы!");
         }
     }
