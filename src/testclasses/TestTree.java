@@ -17,6 +17,8 @@ public class TestTree {
 
         Tree person = new Tree("Иванов Иван Иванович");
         
+        //person.addParent("Вася").addParent("Петя").addParent("Саша").addParent("Паша");
+        
         Tree parent2 = person.addParent("Иванов Иван Петрович");
         Tree t = parent2.addParent("Иванов Петр Сергеевич");
         t.addParent("Иванов Сергей Родионович");
