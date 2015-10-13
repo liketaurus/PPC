@@ -9,13 +9,13 @@ package Misc;
  *
  * @author Admin
  */
-public class Mult {
+public class Variants {
 
     private final int number;
     private final int[] a;
     private int i, sum, pos;
 
-    public Mult(int n) {
+    public Variants(int n) {
         this.number = n;
         a = new int[n + 1];
     }
@@ -47,7 +47,7 @@ public class Mult {
     }
 
     public static void main(String args[]) {
-        Mult m = new Mult(6);
+        Variants m = new Variants(6);
         System.out.println("Возможные представления числа " + m.getNumber() + " (с повторениями): ");
         m.printSequence();
     }
