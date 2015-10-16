@@ -10,7 +10,7 @@
 * пример класса для построения [гистограмм] с использованием зазубренного массива
 * пример [класса] для задачи о генеалогическом дереве. Более общая (и более правильная) реализация дерева - [здесь]. Вопросы по коду тоже [есть]
 * [набросок класса] для задачи об ориентированных графах
-* [решение задачи] о представлении числа в виде сумм натуральных слагаемых
+* [решение задачи] о представлении числа в виде сумм/произведений натуральных чисел
 
 ##В помощь по языку:
 * [краткое руководство] по программировании на Java
@@ -32,7 +32,7 @@
 [здесь]: https://github.com/vivin/GenericTree
 [есть]: https://github.com/liketaurus/PPC/blob/master/src/Misc/questions_Tree.md
 [набросок класса]: https://github.com/liketaurus/PPC/blob/master/src/Misc/Graph.java
-[решение задачи]: https://github.com/liketaurus/PPC/blob/master/src/Misc/Variants.java
+[решение задачи]: https://github.com/liketaurus/PPC/blob/master/src/Misc/NumbersDemo.java
 [краткое руководство]: http://introcs.cs.princeton.edu/java/11cheatsheet/
 [онлайновый курс]: http://www.intuit.ru/studies/courses/16/16/info
 [каталог]: http://java2s.com/
