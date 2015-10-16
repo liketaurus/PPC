@@ -7,6 +7,7 @@
 ##Сейчас в репозитории содержатся:
 * тестовый проект для иллюстрации принципа работы очереди [queueDemo] и [список вопросов] к этому коду.
 * пример [иерархии классов] для задачи описания должностей в некоторой компании
+* [демонстрация] работы с массивами для задачи о шахматной доске и о гистограммах
 * пример класса для построения [гистограмм] с использованием зазубренного массива
 * пример [класса] для задачи о генеалогическом дереве. Более общая (и более правильная) реализация дерева - [здесь]. Вопросы по коду тоже [есть]
 * [набросок класса] для задачи об ориентированных графах
@@ -27,6 +28,7 @@
 [список вопросов]: https://github.com/liketaurus/PPC/blob/master/src/queuedemo/Questions.md
 [ProductivityBlog.com.ua]: http://ProductivityBlog.com.ua
 [иерархии классов]: https://github.com/liketaurus/PPC/tree/master/src/Employees
+[демонстрация]: https://github.com/liketaurus/PPC/blob/master/src/Misc/ArraysDemo.java
 [гистограмм]: https://github.com/liketaurus/PPC/blob/master/src/Misc/BarChart.java
 [класса]: https://github.com/liketaurus/PPC/blob/master/src/Misc/Tree.java
 [здесь]: https://github.com/vivin/GenericTree
