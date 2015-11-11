@@ -62,7 +62,7 @@ public class ArraysDemo {
 
     public static void main(String args[]) {
         ArraysDemo demo = new ArraysDemo();
-        int[] a = {5, 3, 1, 8, 4};
+        int[] a = {5, 3, 1, 8, 4, 2};
         System.out.println(demo);
         System.out.println(demo.getDia(a));
     }
