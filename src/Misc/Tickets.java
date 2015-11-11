@@ -51,12 +51,13 @@ public class Tickets {
     }
     
     private String ConstructNumber(int num) {
-        String number = "";
-        for (int j = 6 - String.valueOf(num).length(); j > 0; j--) {
-            number = "0" + number;
+        StringBuilder number = new StringBuilder("");
+        int numOfZeros = 6-String.valueOf(num).length();        
+        for (int j = numOfZeros; j > 0; j--) {
+            number.append('0');            
         }
-        number = number + num;
-        return number;
+        number.append(num);
+        return number.toString();
     }
     
     public static void main(String[] args) {
