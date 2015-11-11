@@ -12,6 +12,7 @@
 * пример [класса] для задачи о генеалогическом дереве. Более общая (и более правильная) реализация дерева - [здесь]. Вопросы по коду тоже [есть]
 * [набросок класса] для задачи об ориентированных графах
 * [решение задачи] о представлении числа в виде сумм/произведений натуральных чисел
+* [подсчет] числа счастливых билетов. Рассуждения на эту тему читайте [тут]
 
 ##В помощь по языку:
 * [краткое руководство] по программировании на Java
@@ -35,6 +36,8 @@
 [есть]: https://github.com/liketaurus/PPC/blob/master/src/Misc/questions_Tree.md
 [набросок класса]: https://github.com/liketaurus/PPC/blob/master/src/Misc/Graph.java
 [решение задачи]: https://github.com/liketaurus/PPC/blob/master/src/Misc/NumbersDemo.java
+[подсчет]: https://github.com/liketaurus/PPC/blob/master/src/Misc/Tickets.java
+[тут]: http://ega-math.narod.ru/Quant/Tickets.htm
 [краткое руководство]: http://introcs.cs.princeton.edu/java/11cheatsheet/
 [онлайновый курс]: http://www.intuit.ru/studies/courses/16/16/info
 [каталог]: http://java2s.com/
