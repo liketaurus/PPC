@@ -6,7 +6,6 @@
 package Misc;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 
 /**
  *
@@ -15,7 +14,7 @@ import java.util.Arrays;
 public class Tickets {
     
     private int numOfTickets = 0;
-    private ArrayList<String> numbers = new ArrayList<String>();
+    private ArrayList<String> numbers = new ArrayList<>();
     
     public int getNumOfTickets() {
         return numOfTickets;
