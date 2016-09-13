@@ -13,6 +13,7 @@
 * [набросок класса] для задачи об ориентированных графах
 * [решение задачи] о представлении числа в виде сумм/произведений натуральных чисел
 * [подсчет] числа счастливых билетов. Рассуждения на эту тему читайте [тут] 
+* [пример решения задачи] о сортировке массива нулей и единиц путем преобразования в десятичную систему
 
 ##Для экзамена:
 * [список задач], которые будут в билетах
@@ -41,6 +42,7 @@
 [решение задачи]: https://github.com/liketaurus/PPC/blob/master/src/Misc/NumbersDemo.java
 [подсчет]: https://github.com/liketaurus/PPC/blob/master/src/Misc/Tickets.java
 [тут]: http://ega-math.narod.ru/Quant/Tickets.htm
+[пример решения задачи]: https://github.com/liketaurus/PPC/blob/master/src/binarysort/BinarySort.java
 [список задач]: https://github.com/liketaurus/PPC/blob/master/Exercises.md
 [краткое руководство]: http://introcs.cs.princeton.edu/java/11cheatsheet/
 [онлайновый курс]: http://www.intuit.ru/studies/courses/16/16/info
