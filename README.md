@@ -27,7 +27,7 @@
 
 ---
 См. также мой блог [ProductivityBlog.com.ua]
-[ссылка]: http://polytechnic.poltava.ua
+
 
 
 [ProductivityBlog.com.ua]: http://ProductivityBlog.com.ua
